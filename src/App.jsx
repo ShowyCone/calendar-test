@@ -1,4 +1,4 @@
-import MedicalCalendar from './MedicalCalendar'
+import MedicalCalendar from './MedicalCalendar/MedicalCalendar'
 
 const App = () => {
   return (
